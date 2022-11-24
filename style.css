@@ -12,23 +12,24 @@ header img {
     width: 80%;
     height: 80%;
     margin: auto;
+    background-color: #f13669;
 }
 
 .main {
-    margin-top: 150px;
+    margin-top: 5%;
 }
 
 .main h1 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    padding: 20px;
+    padding: 5%;
     color: white;
 }
 
 .main img {
     width: 30%;
     border-radius: 50%;
-    margin-left: 2.4%;
+    margin-left: 2.2%;
     margin-top: 2%;
 }
 
@@ -69,7 +70,7 @@ header img {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     background-color: white;
-    width: 200px;
+    width: 20%;
     margin: auto;
     margin-top: 50px;
     padding-top: 10px;
